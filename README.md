@@ -87,6 +87,9 @@ We used Four Functions in our Project
 <img src="output/result_4.png" width="600" >
 
 
+###  Made with &nbsp;❤️ by  [Karan Shah](https://karanshah.tech/) 
+
+
 
 
 
